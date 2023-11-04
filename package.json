@@ -5,7 +5,7 @@
   "homepage": "https://RobertUta.github.io/goit-js-hw-08",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /RobertUta/goit-js-kw-08/"
+    "build": "parcel build src/*.html --public-url /goit-js-kw-08/"
   },
   "repository": {
     "type": "git",
